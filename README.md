@@ -269,8 +269,6 @@ O projeto atende ao requisito de **pelo menos 5 funções** (são 19 no total):
 - [x] Relatório final exibido no terminal
 
 ---
-Vinicius Molena RM-571270
-Gabriel Vilas RM- 571603
 
 ## Equipe
 
