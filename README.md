@@ -4,8 +4,8 @@ Sistema em **Python** que simula o monitoramento inteligente de uma missão espa
 
 Projeto desenvolvido para a **Global Solution**.
 
-- **Missão:** Orion Test Alpha
-- **Equipe:** Equipe Apollo
+- **Missão:** Helios space mision
+- **Equipe:** Equipe Helios
 
 ---
 
@@ -269,11 +269,14 @@ O projeto atende ao requisito de **pelo menos 5 funções** (são 19 no total):
 - [x] Relatório final exibido no terminal
 
 ---
+Vinicius Molena RM-571270
+Gabriel Vilas RM- 571603
 
 ## Equipe
 
 | Integrante | RM |
 |------------|----|
-| *(preencher)* | *(preencher)* |
+| *Vinicius Molena* | *571270* |
+| *Gabriel Vilas* | *571603* |
 
 Mission Control AI — Global Solution.
