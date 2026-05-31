@@ -1,0 +1,1 @@
+# Pensamento-computacional-python-Global-solution-2026
