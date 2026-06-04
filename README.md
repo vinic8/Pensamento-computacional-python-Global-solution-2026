@@ -4,9 +4,6 @@ Sistema em **Python** que simula o monitoramento inteligente de uma missão espa
 
 Projeto desenvolvido para a **Global Solution**.
 
-- **Missão:** Helios space mision
-- **Equipe:** Equipe Helios
-
 ---
 
 ## Sobre o projeto
