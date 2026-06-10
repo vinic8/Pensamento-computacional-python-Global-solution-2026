@@ -275,3 +275,5 @@ O projeto atende ao requisito de **pelo menos 5 funções** (são 19 no total):
 | *Gabriel Vilas* | *571603* |
 
 Mission Control AI — Global Solution.
+
+[video youtube](https://youtu.be/L4X6uzH51_k)
