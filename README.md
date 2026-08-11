@@ -251,29 +251,3 @@ O projeto atende ao requisito de **pelo menos 5 funções** (são 19 no total):
 | `main` | Função principal do programa |
 
 ---
-
-## Requisitos atendidos
-
-- [x] Nome da missão e da equipe
-- [x] Matriz `dados_missao` com 6 ciclos, cada um com 5 informações na ordem correta
-- [x] Lista de áreas monitoradas
-- [x] Mais de 5 funções
-- [x] Estrutura de repetição para percorrer os ciclos
-- [x] Estruturas condicionais para gerar os alertas
-- [x] Cálculo de risco por ciclo e classificação de cada ciclo
-- [x] Análise da tendência da missão
-- [x] Identificação da área mais afetada
-- [x] Relatório final exibido no terminal
-
----
-
-## Equipe
-
-| Integrante | RM |
-|------------|----|
-| *Vinicius Molena* | *571270* |
-| *Gabriel Vilas* | *571603* |
-
-Mission Control AI — Global Solution.
-
-[video youtube](https://youtu.be/L4X6uzH51_k)
